@@ -1,6 +1,6 @@
 # BSEQAN opdracht
 
-## Waar je welk programma kune vinden:
+## Waar je welk programma kunt vinden:
 - Volledig zelfgemaakte programma:
     alignment_tool.py
 - Controleprogramma:
