@@ -1,0 +1,1 @@
+(((>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris:0.06,>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus:0.06):0.2,(>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris:0.04,>NP_990820.1|hemoglobin subunit beta|Gallus gallus:0.04):0.22):0.11,>XP_032826327.1|globin-5|Petromyzon marinus:0.37);
