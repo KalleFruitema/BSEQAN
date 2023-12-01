@@ -1,0 +1,90 @@
+>NP_990820.1|hemoglobin subunit beta|Gallus gallus
+>NP_990820.1|hemoglobin subunit beta|Gallus gallus
+mvhwtaeekqlitglwgkvnvaecgaealarllivypwtqrffasfgnlssptailgnpmvrahgkkvltsfgdavknldnikntfsqlselhcdklhvdpenfrllgdiliivlaahfskdftpecqaawqklvrvvahalarkyh
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+mvhwtaeekqlitglwgkvnvaecgaealarllivypwtqrffasfgnlssptailgnpmvrahgkkvltsfgdavknldnikntfsqlselhcdklhvdpenfrllgdiliivlaahfskdftpecqaawqklvrvvahalarkyh
+
+>NP_990820.1|hemoglobin subunit beta|Gallus gallus
+>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+mvhwtaeekqlitglwgkv-nvae-cgaealarllivypwtqrffasfgnlssptailgnpmvrahgkkvltsfgdavknldnikntfsqlselhcdklhvdpenfrllgdiliivlaahfskdftpecqaawqklvrvvahalarky
+|| **|**|****|***|* **|| *|||*|*|****||*|***|**| *||*     |******|||||******|****|*|**|*|*||*||**||*|||*||*|||*****|*|*|*****|||**|***|****|***|**||
+mv-lsaadknnvkgiftkiaghaeeygaetlermfttypptktyfphf-dlsh-----gsaqikghgkkvvaalieaanhiddiagtlsklsdlhahklrvdpvnfkllgqcflvvvaihhpaaltpevhasldkflcavgtvltaky
+
+>NP_990820.1|hemoglobin subunit beta|Gallus gallus
+>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+mvhwtaeekqlitglwgkvnvaecgaealarllivypwtqrffasfgnlssptailgnpmvrahgkkvltsfgdavknldnikntfsqlselhcdklhvdpenfrllgdiliivlaahfskdftpecqaawqklvrvvahalarkyh
+|||*|||||*|**||||||||*|*|*|||*|||||||||||||*|||*||*|*|***|**|*|||||||*||*|**|||||*|*||**||||||||||||||||*|||**|**|||*||*|*|||**|||*||*|**||*|||*|||
+mvhltaeekslvsglwgkvnvdevggealgrllivypwtqrffdsfgdlstpdavmsnakvkahgkkvlnsfsdglknldnlkgtfaklselhcdklhvdpenfkllgnvlvcvlahhfgkeftpqvqaayqkvvagvanalahkyh
+
+>NP_990820.1|hemoglobin subunit beta|Gallus gallus
+>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+mvhwtaeekqlitglwgkvnv-a-ecgaealarllivypwtqrffasfgnlssptailgnpmvrahgkkvltsfgdavknldnikntfsqlselhcdklhvdpenfrllgdiliivlaahfskdftpecqaawqklvrvvahalarky
+|| *****|**|***|*|*** | **|*|||*|*****|*|***|**| *|| |    |***|*||||||******||**||******|*||*||**||*|||*||*||***|***||*|****|||***|***|****|***|**||
+mv-lspadktnikstwdkigghagdyggealdrtfqsfpttktyfphf-dls-p----gsaqvkahgkkvadalttavahlddlpgalsalsdlhayklrvdpvnfkllshcllvtlachhpteftpavhasldkffaavstvltsky
+
+>NP_990820.1|hemoglobin subunit beta|Gallus gallus
+>XP_032826327.1|globin-5|Petromyzon marinus
+taeekqlitglwgkv-nvaec-gaealarllivypwtqrffasfgnlssptailgnpmvrahgkkvltsfgdavknldni-kntfs-q-lselhcdklhvdpenfrllgdiliivlaa
+*|*||**|***|**| ***|* |***|*******|**|*||**|**|***********||*|*********|||***|** |**** * ||**|*****|||**|**|********||
+saaektkirsawapvystyetsgvdilvkfftstpaaqeffpkfkglttadqlkksadvrwhaeriinavndavasmddtekmsmklrdlsgkhaksfqvdpqyfkvlaaviadtvaa
+
+>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+mvlsaadknnvkgiftkiaghaeeygaetlermfttypptktyfphfdlshgsaqikghgkkvvaalieaanhiddiagtlsklsdlhahklrvdpvnfkllgqcflvvvaihhpaaltpevhasldkflcavgtvltakyr
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+mvlsaadknnvkgiftkiaghaeeygaetlermfttypptktyfphfdlshgsaqikghgkkvvaalieaanhiddiagtlsklsdlhahklrvdpvnfkllgqcflvvvaihhpaaltpevhasldkflcavgtvltakyr
+
+>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+mv-lsaadknnvkgiftkiaghaeeygaetlermfttypptktyfphf-dlsh--g--s-aqikghgkkvvaalieaanhiddiagtlsklsdlhahklrvdpvnfkllgqcflvvvaihhpaa-ltpevhasldkflcavgtvltaky
+|| |*|**|**|*|***|*  ***|*|*|*|*|****||*|***|**| |||*  *  | |**|*|||||***********|***||**|||*||**||*|||*||||||*****|*| ||*** *||*|*|***|****|***|**||
+mvhltaeekslvsglwgkv--nvdevggealgrllivypwtqrffdsfgdlstpdavmsnakvkahgkkvlnsfsdglknldnlkgtfaklselhcdklhvdpenfkllgnvlvcvla-hhfgkeftpqvqaayqkvvagvanalahky
+
+>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+mvlsaadknnvkgiftkiaghaeeygaetlermfttypptktyfphfdlshgsaqikghgkkvvaalieaanhiddiagtlsklsdlhahklrvdpvnfkllgqcflvvvaihhpaaltpevhasldkflcavgtvltakyr
+||||*|||*|*|****||*|||**||*|*|*|*|***|*|||||||||||*||||*|*|||||**||**|**|*||**|*||*||||||*||||||||||||**|*||**|*|||***||*||||||||**||*||||*|||
+mvlspadktnikstwdkigghagdyggealdrtfqsfpttktyfphfdlspgsaqvkahgkkvadalttavahlddlpgalsalsdlhayklrvdpvnfkllshcllvtlachhpteftpavhasldkffaavstvltskyr
+
+>NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+>XP_032826327.1|globin-5|Petromyzon marinus
+lsaadknnvkgiftkiaghaeeygaetlermfttypptktyfphfd-ls---h-g-saqikghgkkvvaalieaanhiddiagtls-klsdlha-h-k-lrvdpvnfkll
+||||*|**************|**|***|***||**|*****||*|* |*   * * ||****|******|***|****||** **| ||*||** | | **|||**||*|
+lsaaektkirsawapvystyetsgvdilvkfftstpaaqeffpkfkglttadqlkksadvrwhaeriinavndavasmddte-kmsmklrdlsgkhaksfqvdpqyfkvl
+
+>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+mvhltaeekslvsglwgkvnvdevggealgrllivypwtqrffdsfgdlstpdavmsnakvkahgkkvlnsfsdglknldnlkgtfaklselhcdklhvdpenfkllgnvlvcvlahhfgkeftpqvqaayqkvvagvanalahkyh
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+mvhltaeekslvsglwgkvnvdevggealgrllivypwtqrffdsfgdlstpdavmsnakvkahgkkvlnsfsdglknldnlkgtfaklselhcdklhvdpenfkllgnvlvcvlahhfgkeftpqvqaayqkvvagvanalahkyh
+
+>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+mvhltaeekslvsglwgkv--nvdevggealgrllivypwtqrffdsfgdlstpdavmsnakvkahgkkvlnsfsdglknldnlkgtfaklselhcdklhvdpenfkllgnvlvcvla-hhfgkeftpqvqaayqkvvagvanalahky
+|| |****|******|*|*  *****|||||*|*****|*|***|**| ||| | *  | |*||||||||**********||*|*|****||*||**||*|||*|||||***|***|| || **||||*|*|***|**|*|***|**||
+mv-lspadktnikstwdkigghagdyggealdrtfqsfpttktyfphf-dls-p-g--s-aqvkahgkkvadalttavahlddlpgalsalsdlhayklrvdpvnfkllshcllvtlachh-pteftpavhasldkffaavstvltsky
+
+>NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+>XP_032826327.1|globin-5|Petromyzon marinus
+ltaeekslvsglwgkv-nvdevgg-ealgrllivypwtqrffdsfgdlstpdavmsnakvkahgkkvlnsfsdglknldnlkgtfaklsel---hcdklhvdpenfkllgnvlvcvla
+|*|*||******|**| ***|**| **|*******|**|*||**|**|*|*|*****|*|**|*****|***|*****|*******||**|   |*****|||**||*|**|*****|
+lsaaektkirsawapvystyetsgvdilvkfftstpaaqeffpkfkglttadqlkksadvrwhaeriinavndavasmddtekmsmklrdlsgkhaksfqvdpqyfkvlaaviadtva
+
+>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+mvlspadktnikstwdkigghagdyggealdrtfqsfpttktyfphfdlspgsaqvkahgkkvadalttavahlddlpgalsalsdlhayklrvdpvnfkllshcllvtlachhpteftpavhasldkffaavstvltskyr
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+mvlspadktnikstwdkigghagdyggealdrtfqsfpttktyfphfdlspgsaqvkahgkkvadalttavahlddlpgalsalsdlhayklrvdpvnfkllshcllvtlachhpteftpavhasldkffaavstvltskyr
+
+>NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+>XP_032826327.1|globin-5|Petromyzon marinus
+lspadktnikstwdkigghagdyggealdrtfqsfpttktyfphfd-lspg-----saqvkahgkkvadalttavahlddlpgalsa-lsdl---hayklrvdpvnfkllshcllvtla
+||*|*||*|*|*|**********|***|***|*|*|*****||*|* |***     ||*|**|******|***|||**||** **|* |*||   ||****|||**||*|******|*|
+lsaaektkirsawapvystyetsgvdilvkfftstpaaqeffpkfkglttadqlkksadvrwhaeriinavndavasmddte-kmsmklrdlsgkhaksfqvdpqyfkvlaaviadtva
+
+>XP_032826327.1|globin-5|Petromyzon marinus
+>XP_032826327.1|globin-5|Petromyzon marinus
+mpivdtgsvaplsaaektkirsawapvystyetsgvdilvkfftstpaaqeffpkfkglttadqlkksadvrwhaeriinavndavasmddtekmsmklrdlsgkhaksfqvdpqyfkvlaaviadtvaagdagfeklmsmicillrsay
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+mpivdtgsvaplsaaektkirsawapvystyetsgvdilvkfftstpaaqeffpkfkglttadqlkksadvrwhaeriinavndavasmddtekmsmklrdlsgkhaksfqvdpqyfkvlaaviadtvaagdagfeklmsmicillrsay
+

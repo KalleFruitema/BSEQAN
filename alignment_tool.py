@@ -370,6 +370,7 @@ class DistanceMatrix(Matrix):
         if outfile:
             with open(outfile, 'w') as alignment_file:
                 alignment_file.write(file_content)
+        # pprint(alignment_dict, sort_dicts=False)
         return alignment_dict
 
     def __make_sequence_dict(self, sequences):
@@ -659,7 +660,7 @@ def main():
     
     print(alignment2.get_real_alignscore())
 
-    # dm = DistanceMatrix(sequences="tests/tree_seqs.fa", scorematrix=nucl_score_matrix)
+    # dm = DistanceMatrix(sequences="tests/opdracht_seqs.fa", scorematrix=nucl_score_matrix)
     # print(dm)
 
 
@@ -667,7 +668,7 @@ def main2():
     matrix_path = "tests/kimura_matrix.csv"
     nucl_score_matrix = ScoreMatrix(matrix_path)
 
-    dm = DistanceMatrix(sequences="tests/tree_seqs_test.fa", scorematrix=nucl_score_matrix)
+    dm = DistanceMatrix(sequences="tests/opdracht_seqs.fa", scorematrix=nucl_score_matrix)
     print(dm)
 
 
@@ -686,7 +687,7 @@ def main_opdracht():
     dm3 = DistanceMatrix(sequences="tests/opdracht_seqs_namen.fa", scorematrix=blosum80,
                          alignments_outfile="tests/alignments.txt")
     t4 = perf_counter()
-    print(dm3)
+    # print(dm3)
     print(f"\n\nTook {t4-t3} seconds.")
     
     dm3.make_tree(outputfile="tests/bseqan_phylo_tree_namen_2.ph")

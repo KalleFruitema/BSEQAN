@@ -33,6 +33,7 @@ def align_all_seqs(file, outfile: str=''):
     if outfile:
         with open(outfile, 'w') as alignment_file:
             alignment_file.write(file_content)
+    # pprint(align_dict, sort_dicts=False)
     return align_dict
 
     

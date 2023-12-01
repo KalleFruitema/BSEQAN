@@ -1,0 +1,225 @@
+NP_990820.1|hemoglobin subunit beta|Gallus gallus
+NP_990820.1|hemoglobin subunit beta|Gallus gallus
+NP_990820         0 MVHWTAEEKQLITGLWGKVNVAECGAEALARLLIVYPWTQRFFASFGNLSSPTAILGNPM
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_990820         0 MVHWTAEEKQLITGLWGKVNVAECGAEALARLLIVYPWTQRFFASFGNLSSPTAILGNPM
+
+NP_990820        60 VRAHGKKVLTSFGDAVKNLDNIKNTFSQLSELHCDKLHVDPENFRLLGDILIIVLAAHFS
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_990820        60 VRAHGKKVLTSFGDAVKNLDNIKNTFSQLSELHCDKLHVDPENFRLLGDILIIVLAAHFS
+
+NP_990820       120 KDFTPECQAAWQKLVRVVAHALARKYH 147
+                120 ||||||||||||||||||||||||||| 147
+NP_990820       120 KDFTPECQAAWQKLVRVVAHALARKYH 147
+
+
+NP_990820.1|hemoglobin subunit beta|Gallus gallus
+NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+NP_990820         0 MVHWTAEEKQLITGLWGKV--NVAECGAEALARLLIVYPWTQRFFASFGNLSSPTAILGN
+                  0 ||-..|..|....|...|.--...|.|||.|.|....||.|...|..|-.||.-----|.
+NP_001004         0 MV-LSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTYFPHF-DLSH-----GS
+
+NP_990820        58 PMVRAHGKKVLTSFGDAVKNLDNIKNTFSQLSELHCDKLHVDPENFRLLGDILIIVLAAH
+                 60 .....|||||......|....|.|..|.|.||.||..||.|||.||.|||.....|.|.|
+NP_001004        53 AQIKGHGKKVVAALIEAANHIDDIAGTLSKLSDLHAHKLRVDPVNFKLLGQCFLVVVAIH
+
+NP_990820       118 FSKDFTPECQAAWQKLVRVVAHALARKY 146
+                120 .....|||..|...|....|...|..|| 148
+NP_001004       113 HPAALTPEVHASLDKFLCAVGTVLTAKY 141
+
+
+NP_990820.1|hemoglobin subunit beta|Gallus gallus
+NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+NP_990820         0 MVHWTAEEKQLITGLWGKVNVAECGAEALARLLIVYPWTQRFFASFGNLSSPTAILGNPM
+                  0 |||.|||||.|..||||||||.|.|.|||.|||||||||||||.|||.||.|.|...|..
+NP_001257         0 MVHLTAEEKSLVSGLWGKVNVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMSNAK
+
+NP_990820        60 VRAHGKKVLTSFGDAVKNLDNIKNTFSQLSELHCDKLHVDPENFRLLGDILIIVLAAHFS
+                 60 |.|||||||.||.|..|||||.|.||..||||||||||||||||.|||..|..|||.||.
+NP_001257        60 VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG
+
+NP_990820       120 KDFTPECQAAWQKLVRVVAHALARKYH 147
+                120 |.|||..|||.||.|..||.|||.||| 147
+NP_001257       120 KEFTPQVQAAYQKVVAGVANALAHKYH 147
+
+
+NP_990820.1|hemoglobin subunit beta|Gallus gallus
+NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+NP_990820         0 MVHWTAEEKQLITGLWGKV--NVAECGAEALARLLIVYPWTQRFFASFGNLSSPTAILGN
+                  0 ||-.....|..|...|.|.--.....|.|||.|.....|.|...|..|-.|-||----|.
+NP_001257         0 MV-LSPADKTNIKSTWDKIGGHAGDYGGEALDRTFQSFPTTKTYFPHF-DL-SP----GS
+
+NP_990820        58 PMVRAHGKKVLTSFGDAVKNLDNIKNTFSQLSELHCDKLHVDPENFRLLGDILIIVLAAH
+                 60 ..|.||||||......||..||......|.||.||..||.|||.||.||...|...||.|
+NP_001257        53 AQVKAHGKKVADALTTAVAHLDDLPGALSALSDLHAYKLRVDPVNFKLLSHCLLVTLACH
+
+NP_990820       118 FSKDFTPECQAAWQKLVRVVAHALARKY 146
+                120 ....|||...|...|....|...|..|| 148
+NP_001257       113 HPTEFTPAVHASLDKFFAAVSTVLTSKY 141
+
+
+NP_990820.1|hemoglobin subunit beta|Gallus gallus
+XP_032826327.1|globin-5|Petromyzon marinus
+NP_990820         4 TAEEKQLITGLWGKV-NVAE-CGAEALARLLIVYPWTQRFFASFGNLSSPTAILGNPMVR
+                  0 .|.||..|...|..|-...|-.|...|.......|..|.||..|..|...........||
+XP_032826        12 SAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLTTADQLKKSADVR
+
+NP_990820        62 AHGKKVLTSFGDAVKNLDNIKNTFSQLSEL---HCDKLHVDPENFRLLGDILIIVLAAHF
+                 60 .|.........|||...|........|..|---|.....|||..|..|........||--
+XP_032826        72 WHAERIINAVNDAVASMDDTEKMSMKLRDLSGKHAKSFQVDPQYFKVLAAVIADTVAA--
+
+NP_990820       119 SKDFTPECQAAWQKLVRVVAHALARKY 146
+                120 -.|------|...||.......|...| 147
+XP_032826       130 -GD------AGFEKLMSMICILLRSAY 150
+
+
+NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+NP_001004         0 MVLSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTYFPHFDLSHGSAQIKGHG
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_001004         0 MVLSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTYFPHFDLSHGSAQIKGHG
+
+NP_001004        60 KKVVAALIEAANHIDDIAGTLSKLSDLHAHKLRVDPVNFKLLGQCFLVVVAIHHPAALTP
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_001004        60 KKVVAALIEAANHIDDIAGTLSKLSDLHAHKLRVDPVNFKLLGQCFLVVVAIHHPAALTP
+
+NP_001004       120 EVHASLDKFLCAVGTVLTAKYR 142
+                120 |||||||||||||||||||||| 142
+NP_001004       120 EVHASLDKFLCAVGTVLTAKYR 142
+
+
+NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+NP_001004         0 MV-LSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTYFPHF-DLSH-----GS
+                  0 ||-|.|..|..|.|...|.--...|.|.|.|.|....||.|...|..|-|||.-----..
+NP_001257         0 MVHLTAEEKSLVSGLWGKV--NVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMSN
+
+NP_001004        53 AQIKGHGKKVVAALIEAANHIDDIAGTLSKLSDLHAHKLRVDPVNFKLLGQCFLVVVAIH
+                 60 |..|.|||||...........|...||..|||.||..||.|||.||||||.....|.|-|
+NP_001257        58 AKVKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLA-H
+
+NP_001004       113 HPAA-LTPEVHASLDKFLCAVGTVLTAKY 141
+                120 |...-.||.|.|...|....|...|..|| 149
+NP_001257       117 HFGKEFTPQVQAAYQKVVAGVANALAHKY 146
+
+
+NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+NP_001004         0 MVLSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTYFPHFDLSHGSAQIKGHG
+                  0 ||||.|||.|.|....||.|||..||.|.|.|.|...|.|||||||||||.||||.|.||
+NP_001257         0 MVLSPADKTNIKSTWDKIGGHAGDYGGEALDRTFQSFPTTKTYFPHFDLSPGSAQVKAHG
+
+NP_001004        60 KKVVAALIEAANHIDDIAGTLSKLSDLHAHKLRVDPVNFKLLGQCFLVVVAIHHPAALTP
+                 60 |||..||..|..|.||..|.||.||||||.||||||||||||..|.||..|.|||...||
+NP_001257        60 KKVADALTTAVAHLDDLPGALSALSDLHAYKLRVDPVNFKLLSHCLLVTLACHHPTEFTP
+
+NP_001004       120 EVHASLDKFLCAVGTVLTAKYR 142
+                120 .||||||||..||.||||.||| 142
+NP_001257       120 AVHASLDKFFAAVSTVLTSKYR 142
+
+
+NP_001004376.1|hemoglobin subunit alpha-A|Gallus gallus
+XP_032826327.1|globin-5|Petromyzon marinus
+NP_001004         2 LSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTYFPHF------DLSHGSAQI
+                  0 ||||.|..............|..|...|...||..|.....||.|------|....||..
+XP_032826        11 LSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLTTADQLKKSADV
+
+NP_001004        56 KGHGKKVVAALIEAANHIDDIAGTLSKLSDL---HAHKLRVDPVNFKLLGQCFLVVVAIH
+                 60 ..|......|...|....||......||.||---||....|||..||.|.----.|.|..
+XP_032826        71 RWHAERIINAVNDAVASMDDTEKMSMKLRDLSGKHAKSFQVDPQYFKVLA----AVIADT
+
+NP_001004       113 HPAALTPEVHASLDKFLCAVGTVLTAKY 141
+                120 ..|.-----.|...|........|...| 148
+XP_032826       127 VAAG-----DAGFEKLMSMICILLRSAY 150
+
+
+NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+NP_001257         0 MVHLTAEEKSLVSGLWGKVNVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMSNAK
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_001257         0 MVHLTAEEKSLVSGLWGKVNVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMSNAK
+
+NP_001257        60 VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_001257        60 VKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLAHHFG
+
+NP_001257       120 KEFTPQVQAAYQKVVAGVANALAHKYH 147
+                120 ||||||||||||||||||||||||||| 147
+NP_001257       120 KEFTPQVQAAYQKVVAGVANALAHKYH 147
+
+
+NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+NP_001257         0 MVHLTAEEKSLVSGLWGKV--NVDEVGGEALGRLLIVYPWTQRFFDSFGDLSTPDAVMSN
+                  0 ||-|....|......|.|.--.....|||||.|.....|.|...|..|-|||-|----..
+NP_001257         0 MV-LSPADKTNIKSTWDKIGGHAGDYGGEALDRTFQSFPTTKTYFPHF-DLS-P----GS
+
+NP_001257        58 AKVKAHGKKVLNSFSDGLKNLDNLKGTFAKLSELHCDKLHVDPENFKLLGNVLVCVLA-H
+                 60 |.||||||||..........||.|.|....||.||..||.|||.|||||...|...||-|
+NP_001257        53 AQVKAHGKKVADALTTAVAHLDDLPGALSALSDLHAYKLRVDPVNFKLLSHCLLVTLACH
+
+NP_001257       117 HFGKEFTPQVQAAYQKVVAGVANALAHKY 146
+                120 |-..||||.|.|...|..|.|...|..|| 149
+NP_001257       113 H-PTEFTPAVHASLDKFFAAVSTVLTSKY 141
+
+
+NP_001257812.1|hemoglobin subunit beta-like|Canis lupus familiaris
+XP_032826327.1|globin-5|Petromyzon marinus
+NP_001257         3 LTAEEKSLVSGLWGKV-NVDEVGG-EALGRLLIVYPWTQRFFDSFGDLSTPDAVMSNAKV
+                  0 |.|.||......|..|-...|..|-..|.......|..|.||..|..|.|.|.....|.|
+XP_032826        11 LSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLTTADQLKKSADV
+
+NP_001257        61 KAHGKKVLNSFSDGLKNLDNLKGTFAKLSEL---HCDKLHVDPENFKLLGNV--------
+                 60 ..|.....|...|.....|.......||..|---|.....|||..||.|..|--------
+XP_032826        71 RWHAERIINAVNDAVASMDDTEKMSMKLRDLSGKHAKSFQVDPQYFKVLAAVIADTVAAG
+
+NP_001257       110 ---------LVCVLAHHFGKEFTPQVQAAY 131
+                120 ---------..|.|-----------...|| 150
+XP_032826       131 DAGFEKLMSMICIL-----------LRSAY 150
+
+
+NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+NP_001257         0 MVLSPADKTNIKSTWDKIGGHAGDYGGEALDRTFQSFPTTKTYFPHFDLSPGSAQVKAHG
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_001257         0 MVLSPADKTNIKSTWDKIGGHAGDYGGEALDRTFQSFPTTKTYFPHFDLSPGSAQVKAHG
+
+NP_001257        60 KKVADALTTAVAHLDDLPGALSALSDLHAYKLRVDPVNFKLLSHCLLVTLACHHPTEFTP
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NP_001257        60 KKVADALTTAVAHLDDLPGALSALSDLHAYKLRVDPVNFKLLSHCLLVTLACHHPTEFTP
+
+NP_001257       120 AVHASLDKFFAAVSTVLTSKYR 142
+                120 |||||||||||||||||||||| 142
+NP_001257       120 AVHASLDKFFAAVSTVLTSKYR 142
+
+
+NP_001257814.1|hemoglobin subunit alpha-like|Canis lupus familiaris
+XP_032826327.1|globin-5|Petromyzon marinus
+NP_001257         2 LSPADKTNIKSTWDKIGGHAGDYGGEALD---RTFQSFPTTKTYFPHF------DLSPGS
+                  0 ||.|.||.|.|.|...--..-.|.....|---..|.|.|.....||.|------|....|
+XP_032826        11 LSAAEKTKIRSAWAPV--YS-TYETSGVDILVKFFTSTPAAQEFFPKFKGLTTADQLKKS
+
+NP_001257        53 AQVKAHGKKVADALTTAVAHLDDLPGALS-ALSDL---HAYKLRVDPVNFKLLSHCLLVT
+                 60 |.|..|......|...|||..||..-..|-.|.||---||....|||..||.|......|
+XP_032826        68 ADVRWHAERIINAVNDAVASMDDTE-KMSMKLRDLSGKHAKSFQVDPQYFKVLAAVIADT
+
+NP_001257       109 LACHHPTEFTPAVHASLDKFFAAVSTVLTSKY 141
+                120 .|---------|..|...|........|.|.| 152
+XP_032826       127 VA---------AGDAGFEKLMSMICILLRSAY 150
+
+
+XP_032826327.1|globin-5|Petromyzon marinus
+XP_032826327.1|globin-5|Petromyzon marinus
+XP_032826         0 MPIVDTGSVAPLSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLT
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+XP_032826         0 MPIVDTGSVAPLSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLT
+
+XP_032826        60 TADQLKKSADVRWHAERIINAVNDAVASMDDTEKMSMKLRDLSGKHAKSFQVDPQYFKVL
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+XP_032826        60 TADQLKKSADVRWHAERIINAVNDAVASMDDTEKMSMKLRDLSGKHAKSFQVDPQYFKVL
+
+XP_032826       120 AAVIADTVAAGDAGFEKLMSMICILLRSAY 150
+                120 |||||||||||||||||||||||||||||| 150
+XP_032826       120 AAVIADTVAAGDAGFEKLMSMICILLRSAY 150
+
+
